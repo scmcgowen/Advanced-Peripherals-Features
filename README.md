@@ -1,2 +1,3 @@
 # Advanced-Peripherals-Issues
-A place for the issues(Only bugs) for Advanced Peripherals
+To keep things clean, this is the place for the feature request for Advanced Peripherals. If you want to report a bug, please do that [here](https://github.com/SirEndii/AdvancedPeripherals/issues)
+
